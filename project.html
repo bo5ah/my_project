@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>biography</title>
+<meta charset="utf-8">
+<meta name="discribtion" content="this is my web sait">
+<style>
+    .form{
+        font-size: 20px;text-align: center;
+    }
+    body{
+        background-color: #b7cadb;
+        text-align: center;
+        font-size: 40px;
+
+    }
+    input{
+        width: 270px;
+        height: 30px;
+    }
+</style>
+</head>
+<body>
+<div class="name head" style="text-align: center;margin: 50px;background-color: #DAB88B; font-size: 40px;">
+<h1>biography</h1>
+</div>
+ 
+<form method="get" target="blank" style="padding: 20px; border:solid 5px #DAB88B; width: 80vw ; border-radius: 1vw; margin-left: 65px; background-color: #f3e9dd">
+<div style="margin-bottom: 3vw; display: flex; justify-content: center; flex-wrap: wrap; flex-direction: row; align-items: center; ">
+    <div>   
+        <label style="margin: 20px; ">first name</label><br>
+        <input type="text" placeholder="first name" style="margin: 10px;" required>
+    </div>
+    <div>
+        <label>last name</label><br>
+        <input type="text" placeholder="last name" style="margin: 10px;"required>
+    </div>
+</div><!-- end 1-->
+<div style="margin-bottom: 3vw; display: flex; justify-content: center; flex-wrap: wrap; flex-direction: row; align-items: center;">
+    <div>   
+        <label>username</label><br>
+        <input type="email" placeholder="mohamed@gmail.com" style="margin: 10px;"required>
+    </div>
+    <div>
+        <label>password</label><br>
+        <input type="password" placeholder="type your password" style="margin: 10px;"required>
+    </div><!--end2-->
+
+</div>
+<div style="margin-bottom: 3vw; display: flex; justify-content: center; flex-wrap: wrap; flex-direction: row; align-items: center;">
+    <div>   
+        <label>your address</label><br>
+        <input type="text" placeholder="address" style="margin: 10px;">
+    </div>
+    <div>
+        <label>phone number</label><br>
+        <input type="number" placeholder="type your phone " style="margin: 10px;">
+    </div> </div> <!--end3--> 
+    <hr>    
+    <div class="ma" style="padding: 10px;"> 
+        <label>Type</label><br>  <br>                     
+        <input type="radio" name="ty" value="male" style="width: 20px;"> male
+        <input type="radio" name="ty" value="female" style="width: 20px;">female
+        
+    </div>
+   <hr>
+    <div>
+        <label> up load your cs</label>
+        <input type="file" >
+    </div>
+    <hr>
+                 <div >
+                        <label > country</label>
+                        <select>
+                            <optgroup label=africa>
+                                <option >egypt</option>
+                                <option >sudan</option>
+                                <option >libya</option>
+                                <option >algeria</option>
+                                <option >morocco</option>
+                            </optgroup> 
+                        </select>
+                </div>
+                <hr>
+
+<div>
+    <input type="reset" value="reset" style="margin:10px">
+    <input type="submit" value="completed" style="margin:10px">
+</div>
+</form>
+</body>
+</html>
