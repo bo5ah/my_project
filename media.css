@@ -1,0 +1,385 @@
+                                                        @media screen and (max-width:1024px) {
+                                                        .img11 {
+                                                            margin-top: 35px;
+                                                            width: 50%;
+                                                        }
+                                                        .pro12 {
+                                                            text-align: center;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bolder;
+                                                            font-size: 70px;
+                                                            width: 50%;
+                                                            position: relative;
+                                                            bottom: 350px;
+                                                        }
+                                                        .div14 {
+                                                            width: 80%;
+                                                            height: 500px;
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            margin-bottom: 20px;
+                                                        }
+                                                        body .div14 {
+                                                            text-align: center;
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro15 {
+                                                            margin-bottom: 40px;
+                                                            font-size: 20px;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                        }
+                                                        .part3 {
+                                                            height: auto;
+                                                            width: 100%;
+                                                            text-align: center;
+                                                            margin-top: 110px;
+                                                        }
+                                                        .pro16 {
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            font-size: 70px;
+                                                        }
+                                                        .pro17 {
+                                                            width: 30%;
+                                                            height: 300px;
+                                                            float: right;
+                                                            margin: 5%;
+                                                        }
+                                                        .pro18 {
+                                                            width: 50%;
+                                                            height: 375px;
+                                                            margin-left: 5%;
+                                                            margin-top: 2%;
+                                                        }
+                                                        .part4 {
+                                                            height: auto;
+                                                            width: 100%;
+                                                            text-align: center;
+                                                            margin-top: 110px;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        .pro19 {
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            font-size: 70px;
+                                                        }
+                                                        .pro20 {
+                                                            width: 30%;
+                                                            height: 300px;
+                                                            float: right;
+                                                            margin: 5%;
+                                                        }
+                                                        .pro21 {
+                                                            width: 50%;
+                                                            height: 375px;
+                                                            margin-left: 5%;
+                                                            margin-top: 2%;
+                                                        }
+                                                        .part2 {
+                                                            height: auto;
+                                                            width: 100%;
+                                                            text-align: center;
+                                                        }
+                                                        .pro17 {
+                                                            background-color: var(--boxcolor);
+                                                        }
+                                                        .pro18 {
+                                                            border-color: #DB640f;
+                                                            border-style: ridge;
+                                                        }
+                                                        .pro20 {
+                                                            background-color: var(--boxcolor);
+                                                        }
+                                                        .pro21 {
+                                                            border-color: #DB640f;
+                                                            border-style: ridge
+                                                        }
+                                                        .part5 {
+                                                            text-align: center;
+                                                        }
+                                                        .pro22 {
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            font-size: 70px;
+                                                            margin: 5%;
+                                                        }
+                                                        .pro23 {
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            width: 80%;
+                                                            height: 400px;
+                                                            position: relative;
+                                                            left: 10%;
+                                                            margin-bottom: 5%;
+                                                        }
+                                                        .pro24 {
+                                                            font-size: 20px;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        .part6 {
+                                                            text-align: center;
+                                                        }
+                                                        .pro25 {
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            font-size: 70px;
+                                                            margin: 5%;
+                                                        }
+                                                        .pro26 {
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            width: 80%;
+                                                            height: 400px;
+                                                            position: relative;
+                                                            left: 10%;
+                                                            margin-bottom: 5%;
+                                                        }
+                                                        .pro27 {
+                                                            font-size: 20px;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            margin-bottom: 1%;
+                                                        }
+                                                        .pro28 {
+                                                            font-size: 20px;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        .part7 {
+                                                            text-align: center;
+                                                            width: 100%;
+                                                        }
+                                                        .pro29 {
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            width: 80%;
+                                                            position: relative;
+                                                            left: 10%;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                    }
+                                                    
+                                                    @media screen and (max-width:480px) {
+                                                        .part1 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .part2 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .part3 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .part4 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .part5 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .part6 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro12 {
+                                                            text-align: center;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bolder;
+                                                            font-size: 58px;
+                                                            width: 100%;
+                                                            position: relative;
+                                                            bottom: 545px;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        .img11 {
+                                                            margin-top: 80px;
+                                                            width: 100%;
+                                                            position: relative;
+                                                            top: 153px;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        .div14 {
+                                                            margin-top: 10%;
+                                                            width: 80%;
+                                                            height: 500px;
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            margin-bottom: 20px;
+                                                        }
+                                                        body .div14 {
+                                                            text-align: center;
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro15 {
+                                                            margin-bottom: 40px;
+                                                            font-size: 20px;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                        }
+                                                        footer {
+                                                            width: 116%;
+                                                        }
+                                                        .pro29 {
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            width: 110%;
+                                                            position: relative;
+                                                            left: 3%;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        nav {
+                                                            width: 115%;
+                                                        }
+                                                    }
+                                                    
+                                                    @media screen and (max-width:768px) {
+                                                        .pro12 {
+                                                            text-align: center;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bolder;
+                                                            font-size: 59px;
+                                                            width: 50%;
+                                                            position: relative;
+                                                            bottom: 350px;
+                                                            left: 15px;
+                                                        }
+                                                        .part1 {
+                                                            height: 530px;
+                                                        }
+                                                    }
+                                                    
+                                                    @media screen and (max-width:640px) {
+                                                        .pro12 {
+                                                            text-align: center;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bolder;
+                                                            font-size: 49px;
+                                                            width: 50%;
+                                                            position: relative;
+                                                            bottom: 260px;
+                                                            left: 15px;
+                                                        }
+                                                        .part1 {
+                                                            height: 450px;
+                                                        }
+                                                    }
+                                                    
+                                                    @media screen and (max-width:320px) {
+                                                        nav {
+                                                            width: 140%;
+                                                        }
+                                                        footer {
+                                                            width: 140%;
+                                                        }
+                                                        .pro29 {
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            width: 138%;
+                                                            position: relative;
+                                                            left: 1%;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        .pro12 {
+                                                            text-align: center;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bolder;
+                                                            font-size: 49px;
+                                                            width: 100%;
+                                                            position: relative;
+                                                            bottom: 402px;
+                                                            left: 15px;
+                                                        }
+                                                        .div14 {
+                                                            margin-top: 70%;
+                                                            width: 100%;
+                                                            height: 500px;
+                                                            border-style: ridge;
+                                                            border-color: #DB640f;
+                                                            margin-bottom: 20px;
+                                                        }
+                                                        .img11 {
+                                                            margin-top: 80px;
+                                                            width: 119%;
+                                                            position: relative;
+                                                            top: 153px;
+                                                            margin-bottom: 10%;
+                                                        }
+                                                        body {
+                                                            width: 100%;
+                                                            text-align: center;
+                                                        }
+                                                        .pro15 {
+                                                            margin-bottom: 40px;
+                                                            font-size: 20px;
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro18 {
+                                                            width: 70%;
+                                                            height: 375px;
+                                                            margin-left: -5%;
+                                                            margin-top: 2%;
+                                                        }
+                                                        .pro17 {
+                                                            width: 50%;
+                                                            height: 300px;
+                                                            float: right;
+                                                            margin: 10%;
+                                                            position: relative;
+                                                            left: 31%;
+                                                        }
+                                                        .pro21 {
+                                                            width: 70%;
+                                                            height: 375px;
+                                                            margin-left: -5%;
+                                                            margin-top: 2%;
+                                                        }
+                                                        .pro20 {
+                                                            width: 50%;
+                                                            height: 300px;
+                                                            float: right;
+                                                            margin: 10%;
+                                                            position: relative;
+                                                            left: 31%;
+                                                        }
+                                                        .pro22 {
+                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                            font-weight: bold;
+                                                            font-size: 70px;
+                                                            margin: 5%;
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro23 {
+                                                            width: 100%;
+                                                        }
+                                                        .pro24 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro25 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro26 {
+                                                            width: 100%;
+                                                        }
+                                                        .pro27 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
+                                                        .pro28 {
+                                                            position: relative;
+                                                            left: 10%;
+                                                        }
